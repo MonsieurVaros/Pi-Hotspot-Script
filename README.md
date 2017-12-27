@@ -29,9 +29,9 @@ What are the requirements ?
 for this project
 - An internet access of course
 - A micro SD card with a raspbian-like OS installed (recommanded one is [minibian](https://minibianpi.wordpress.com/) )
-   - Supported OS : [minibian](https://minibianpi.wordpress.com/), [raspbian netinstall](https://github.com/debian-pi/raspbian-ua-netinst)
+   - Supported OS : [minibian](https://minibianpi.wordpress.com/), [raspbian netinstall](https://github.com/debian-pi/raspbian-ua-netinst) and the Official Raspbian.
 
-_WARNING_ : For this project i used [minibian](https://minibianpi.wordpress.com/). No warranty that it will work with OSes like Official Raspbian, Official Raspbian Light, Ubuntu Mate Xenial, etc.
+_WARNING_ : For this project i used [minibian](https://minibianpi.wordpress.com/). No warranty that it will work with OSes like Official Raspbian Light, Ubuntu Mate Xenial, etc.
 
 Usage
 =====
